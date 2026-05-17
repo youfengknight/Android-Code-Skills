@@ -1,2 +1,4 @@
 # Android-Code-Skills
 跟安卓相关的SKills，比如安卓官方的skill，编程大神卡帕西的skill，还有一些自己在项目中顺手写的
+比如Compose复用检测skill，安卓代码审查skill，安卓APP模块学习skill，功能架构规划skill，开发学习记录生成skill，代码方案评估完全版skill，代码修改自动合规校验skill，VIEW系统重构为Compose指南skill，手机MD
+流程图优化器skill，Room Scheme修复skill等
